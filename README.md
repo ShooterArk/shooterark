@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I am Yawar, a frontend engineer from Pakistan.
+
+- I design and build fast, reliable, and clean software. My work focuses on React, React Native, Next.js, Node, and full stack engineering for products that need to ship with quality and scale in mind.
+
+-You’ll find a mix of production-grade code, experiments, and things I built because my brain refused to sleep until the problem was solved. I care about performance, developer experience, and elegant architectures that stay maintainable long after launch.
+
+- If you’re into frontend craftsmanship, mobile engineering, or smart backend design, you’ll probably feel at home here. Feel free to explore, fork, or open an issue if you find something interesting.
